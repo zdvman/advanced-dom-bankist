@@ -32,8 +32,20 @@ It was developed as part of an educational journey to master frontend developmen
 
 ## 📸 Preview
 
-> _(You can host the project using GitHub Pages, Netlify, or Vercel and paste the live link here)_  
-> Example: https://yourusername.github.io/advanced-dom-bankist
+
+https://zdvman-advanced-dom-bankist.netlify.app/
+
+
+---
+## Images
+
+![image](https://github.com/user-attachments/assets/29248e59-81b4-4569-aa23-9ff985f8af0d)
+
+![image](https://github.com/user-attachments/assets/2dda189d-4044-470c-ba76-1e5df6f6a990)
+
+![image](https://github.com/user-attachments/assets/a304dcbe-1b4d-4e73-8998-3f29faf10615)
+
+![image](https://github.com/user-attachments/assets/21b97a69-ee70-41a6-b1a4-1930e863c7dc)
 
 ---
 
@@ -83,8 +95,6 @@ advanced-dom-bankist/
    ```bash
    git clone https://github.com/yourusername/advanced-dom-bankist.git
    ```
-
-````
 
 2. **Navigate to the project folder:**
    ```bash
@@ -167,4 +177,3 @@ Please do not redistribute as your own product or use it commercially.
 
 Thanks for visiting!
 If you liked this project, consider giving it a ⭐️ on GitHub!
-````
